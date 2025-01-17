@@ -1,5 +1,5 @@
 # Cool-Title
-This repo is an extension of the model [Original Repo link](https://github.com/ChenxiLiu-HNU/ST-LLM).
+This repo is an extension of an existing model [Original Repo link](https://github.com/ChenxiLiu-HNU/ST-LLM).
 
 **Modifications** 
 * Added Dask DDP
