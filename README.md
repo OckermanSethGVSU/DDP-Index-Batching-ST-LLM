@@ -1,7 +1,5 @@
 # Cool-Title
-This repo is an extension of the model introduced in [*"Spatial-Temporal Large Language Model for Traffic Prediction"* paper](https://github.com/ChenxiLiu-HNU/ST-LLM/blob/main/ST-LLM.pdf).
-
-[Original Repo link](https://github.com/ChenxiLiu-HNU/ST-LLM).
+This repo is an extension of the model [Original Repo link](https://github.com/ChenxiLiu-HNU/ST-LLM).
 
 **Modifications** 
 * Added Dask DDP
